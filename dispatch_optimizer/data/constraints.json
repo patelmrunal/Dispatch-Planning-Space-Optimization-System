@@ -1,0 +1,9 @@
+{
+  "max_storage_weight": 5000,
+  "max_storage_volume": 1000,
+  "fragile_on_top": true,
+  "priority_first": true,
+  "storage_length": 40,
+  "storage_width": 20,
+  "storage_height": 15
+} 

@@ -1,0 +1,10 @@
+streamlit
+pandas
+matplotlib
+plotly
+deap
+pyomo
+scikit-learn
+joblib
+plotly
+numpy 
